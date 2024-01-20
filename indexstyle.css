@@ -42,6 +42,7 @@ header a:hover{
 	position:absolute;
 	left:50%;
 	top:0;
+	padding-top:10%;
 	transform: translateX(-50%);
 	transition: top 1s, left 1s;
 }
